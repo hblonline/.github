@@ -1,4 +1,4 @@
-![Fixami](logo-fixami.svg)
+![Fixami](https://github.com/hblonline/.github/raw/main/profile/logo-fixami.svg)
 
 # About us
 
